@@ -1,29 +1,12 @@
-{
 
-   "0":{
-
-      "absolutePath":"192.168.150.74:8080",
-
-      "sopdetails":"<p style=\"text-align: center;\">&nbsp;</p>\n<ul>\n<li style=\"text-align: left;\">If Customer has not provided any information about fiducials &amp;tooling holes, then add LT standard fiducials and tooling holes.</li>\n</ul>\n<ul>\n<li style=\"text-align: left;\">In Customer drawing given Fiducials info and Tolling hole info not given then add LT standard \u0002 tooling hole.</li>\n</ul>\n<ul>\n<li style=\"text-align: left;\">In Customer drawing given Tooling hole info and Fiducials info not given then add LT standard Fiducials.</li>\n</ul>\n<ul>\n<li style=\"text-align: left;\">For all arrays always need to add Tooling hole and Fiducials (For QSDM no need to add tooling hole).</li>\n</ul>\n<ul>\n<li style=\"text-align: left;\"><span style=\"color: #ff00e6;\">For \" Malibu\" Customer jobs if the customer provides data in panel and there are no tooling holes provided in the array. Then please do not add them.</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style=\"background-color: #0dff00; color: #0053ff;\"> Customer mail dated 09.02.2016</span></strong></li>\n</ul>\n<ul>\n<li style=\"text-align: left;\">LT Standard Fiducials and Tooling hole refer below table.</li>\n</ul>\n<p>&nbsp;</p>",
-
-      "topic":"Uni panel",
-
-      "subtopic":"Check Customer Drawing for Fiducials, Tooling Holes & Thieving. If no info add LT Standard. Always add Tooling\nand fiducial in unipanel.",
-
-      "topicindex":17,
-
-      "subtopicindex":5,
-
-      "versionnumber":24,
-
-      "customerid":38,
-
-      "sopid":103,
-
-      "id":2031
-
+   {
+      "jobname":"Checklist Qns",
+      "customer_name":"03005P",
+      "serial_no":"1.1",
+      "main_question_id":"2369",
+      "main_question":"Standard Operating Procedure",
+      "question_id":"2370",
+      "checkpoint":"Self explanatory",
+      "sop_id":"2867",
+      "classpath":" some path"
    }
-
-}
-
- 
